@@ -22,9 +22,9 @@
 - Eliminar registros de la Base de Datos
 
 ## TABLA EN LA BASE DE DATOS DE RESERVAS
-![tabla-reservas](https://github.com/0AleDU0/challenge-one-alura-hotel-latam/blob/master/imagenes-proyecto/tabla-reservas.jpeg)
 
 ## TABLA EN LA BASE DE DATOS DE HUESPEDES
+![tabla-huespedes](https://github.com/0AleDU0/challenge-one-alura-hotel-latam/blob/master/imagenes-proyecto/mysql-huespedes.jpeg)
 
 ## LISTADO DE REGISTROS DE RESERVAS
 
